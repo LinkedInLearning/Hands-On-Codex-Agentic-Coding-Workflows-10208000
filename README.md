@@ -28,21 +28,13 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 ## Instructor
-
 Dr. Isil Berkun
 
 Dr. Isil Berkun is an AI educator, strategist, and the founder of DigiFab.AI.
 
 At DigiFab.AI, Dr. Berkun focuses on AI education, helping organizations bring AI into manufacturing, robotics, aerospace, and other complex industries. She spent nearly a decade at Intel, where she led applied machine learning and deep learning projects at scale. Her LinkedIn Learning courses have reached 380,000+ learners, covering topics such as predictive analytics with Python, deep learning with Keras and TensorFlow, responsible AI, cloud-based prototyping, and agentic development with Claude Code.
-
-                            
+                   
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/isil-berkun?u=104).
 
