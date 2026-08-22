@@ -32,13 +32,15 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Dr. Isil Berkun
 
-Instructor description
+Dr. Isil Berkun is an AI educator, strategist, and the founder of DigiFab.AI.
+
+At DigiFab.AI, Dr. Berkun focuses on AI education, helping organizations bring AI into manufacturing, robotics, aerospace, and other complex industries. She spent nearly a decade at Intel, where she led applied machine learning and deep learning projects at scale. Her LinkedIn Learning courses have reached 380,000+ learners, covering topics such as predictive analytics with Python, deep learning with Keras and TensorFlow, responsible AI, cloud-based prototyping, and agentic development with Claude Code.
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/isil-berkun?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
