@@ -4,8 +4,12 @@ This is the repository for the LinkedIn Learning course `Hands-On Codex: Agentic
 ![lil-thumbnail-url]
 
 ## Course Description
+AI coding agents can inspect repositories, modify code, run tests, and complete multistep tasks with minimal prompting. But effective delegation requires more than handing an agent a goal and hoping it all works out. In this course, Dr. Isil Berkun shows you how to use OpenAI Codex to build a habit-tracking application while learning a practical workflow for supervising AI agents.
 
-_See the readme file in the main branch for updated instructions and information._
+Learn how to define acceptance criteria, provide repository guidance, review implementation plans, establish permission boundaries, verify outcomes, and recover from scope drift. Discover why engineering judgment remains essential, even as agents take on more execution. Interactive CoderPad challenges let you practice writing acceptance criteria and reviewing AI-generated code changes. By the end of this course, you'll have a repeatable framework for delegating coding tasks to AI agents while maintaining control over quality, risk, and scope.
+
+This course includes Code Challenges powered by CoderPad. Code Challenges are interactive coding exercises with real-time feedback, so you can get hands-on coding practice alongside the course content to advance your programming skills.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
