@@ -10,6 +10,14 @@ Learn how to define acceptance criteria, provide repository guidance, review imp
 
 This course includes Code Challenges powered by CoderPad. Code Challenges are interactive coding exercises with real-time feedback, so you can get hands-on coding practice alongside the course content to advance your programming skills.
 
+Learning objectives
+- Define acceptance criteria for AI-assisted development tasks.
+- Delegate implementation work to an AI coding agent.
+- Apply approval and permission controls to agent workflows.
+- Verify AI-generated solutions against requirements.
+- Recognize and recover from scope drift while maintaining project goals.
+- Use a define, delegate, gate, verify, and recover workflow in agentic coding projects.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -41,6 +49,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/hands-on-codex-agentic-coding-workflows
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQFANOkK_vqe7g/learning-public-crop_675_1200/B56aAhDlotIwAY-/0/1787260984431?e=2147483647&v=beta&t=ZIRg8OrGgVwzQGDtwxs_ln6JEwmTCek6ihilNF_xfLU
 
